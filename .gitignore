@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Compilação
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.log
+*.tlog
+*.cache
+
+# Pastas
+Debug/
+Release/
+x64/
+ipch/
+
+# Outros
+*.sdf
+*.db
+*.o
+*.class
+*.vscode/
