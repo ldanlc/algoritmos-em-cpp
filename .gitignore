@@ -1,4 +1,4 @@
-# Visual Studio temporary files and build artifacts
+# Visual Studio related files and build artifacts
 .vs/
 *.suo
 *.user
@@ -22,7 +22,7 @@
 *.pgc
 *.pgd
 *.meta
-*.vcxproj.*.filters
+*.vcproj.*.filters
 *.vcxproj.user
 *.vcxproj.*.user
 *.ipch
