@@ -2,7 +2,7 @@
 
 int main() {
 
-	std::cout << "teste 123" << std::endl;
+	std::cout << "teste 12312312" << std::endl;
 	system("PAUSE");
 	return 0;
 }
